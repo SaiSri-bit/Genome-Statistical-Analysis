@@ -11,9 +11,9 @@ import time
 
 
 #Things that are important throughout
-folder_path ='/home/srinivas/ArchaeaGenomeComparer'
-Entrez.email = 'sriedu101@gmail.com'
-Entrez.api_key = '66ef73a2c3efa4447b7f3e4ef38d8188fe09'
+folder_path = # Enter Specific Code Path
+Entrez.email = # Enter Email
+Entrez.api_key = # Enter Entrez API Key
 
 class Expierement:
     def __init__(self,organisms:np.array,proteins:np.array,sigLevel):
